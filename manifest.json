@@ -1,0 +1,17 @@
+{
+  "package": "Fabric Inventory Explorer",
+  "version": "1.1.0",
+  "default_mode": "help",
+  "contains_inventory_data": false,
+  "requires_local_scripts": false,
+  "files": [
+    {
+      "name": "Fabric_Inventory_Template.ipynb",
+      "sha256": "060277c651023509fef7e00d242236b9a2e9ff25b7a09f5913273c4b0ed65dd7"
+    },
+    {
+      "name": "README.md",
+      "sha256": "1abad621fb9a2a3824d94dfd5de4117f62b90cb714fe116baa621e6c6933d09f"
+    }
+  ]
+}
